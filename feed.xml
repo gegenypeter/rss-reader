@@ -1,0 +1,38 @@
+<news>
+    <item>
+        <title>
+            Music
+        </title>
+        <description>
+            Zenei hírek
+        </description>
+        <link>
+            https://linklinklink.com
+        </link>
+    </item>
+
+        <item>
+        <title>
+            Politics
+        </title>
+        <description>
+            Pol hírek
+        </description>
+        <link>
+            https://linklinklink.com
+        </link>
+    </item>
+
+    <item>
+        <title>
+            Tech
+        </title>
+        <description>
+            Tech hírek
+        </description>
+        <link>
+            https://linklinklink.com
+        </link>
+    </item>
+
+</news>
