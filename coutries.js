@@ -5,5 +5,6 @@ function showCountry(country){
     console.log(country);
     const name = country[0].name.official;
     document.getElementById("name").textContent = name;
+    
 }
 window.addEventListener("load",loadCountry);
