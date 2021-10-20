@@ -13,4 +13,10 @@
     #news{
         grid-template-columns: 1fr;
     }
+    #flag{
+        display:inline;
+        inline-size: 1fr 1fr;
+        
+    }
+
 }

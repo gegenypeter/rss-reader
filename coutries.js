@@ -3,8 +3,8 @@ function loadCountry() {
 }
 function showCountry(country){
     console.log(country);
-    const name = country[0].name.official;
-    document.getElementById("name").textContent = name;
-    
+    const name = country[0].flag;
+    document.getElementById("flag").textContent = flag;
+
 }
 window.addEventListener("load",loadCountry);
